@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar .container-fluid{
+    background-color: rgb(235, 155, 181);
+    padding-left: 40px;
+}
+
+.navbar a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: purple;
+    font-size: large;
+}
+
+.navbar img {
+    border-radius: 50%;
+    height: 50%;
+}
+
+.d-flex button {
+    background-color: purple;
+    border: none;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.carousel-caption p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.bg-warning{
+    text-align: center;
+    color: brown;
+    width: fit-content;
+}
